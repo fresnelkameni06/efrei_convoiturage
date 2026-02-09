@@ -77,10 +77,12 @@ npm start
 http://localhost:3000
 ````
 ### 2️⃣ Frontend (Vue.js)
+```bash
 cd client/vite-project
 npm install
 npm run dev
 http://localhost:5173
+````
 
 🔐 Sécurité
 
