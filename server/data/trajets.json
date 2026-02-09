@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "conducteurId": 5,
+    "depart": "akwa ",
+    "destination": "ndokoti ",
+    "date": "2025-11-25",
+    "heure": "02:58",
+    "placesTotal": 5,
+    "placesRestantes": 5,
+    "status": "effectué",
+    "reservations": []
+  },
+  {
+    "id": 2,
+    "conducteurId": 5,
+    "depart": "erer",
+    "destination": "ererer",
+    "date": "2025-11-25",
+    "heure": "03:34",
+    "placesTotal": 5,
+    "placesRestantes": 5,
+    "status": "effectué",
+    "reservations": []
+  },
+  {
+    "id": 3,
+    "conducteurId": 5,
+    "depart": "lille",
+    "destination": "lyon",
+    "date": "2025-11-25",
+    "heure": "03:45",
+    "placesTotal": 5,
+    "placesRestantes": 5,
+    "status": "effectué",
+    "reservations": []
+  },
+  {
+    "id": 4,
+    "conducteurId": 5,
+    "depart": "dede",
+    "destination": "frfr",
+    "date": "2025-11-25",
+    "heure": "03:50",
+    "placesTotal": 5,
+    "placesRestantes": 4,
+    "status": "effectué",
+    "reservations": [
+      {
+        "passagerId": 2,
+        "dateReservation": "2025-11-25T02:49:02.586Z",
+        "statut": "réservé"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "conducteurId": 5,
+    "depart": "rere",
+    "destination": "zzzz",
+    "date": "2025-11-25",
+    "heure": "04:01",
+    "placesTotal": 5,
+    "placesRestantes": 5,
+    "status": "effectué",
+    "reservations": []
+  },
+  {
+    "id": 6,
+    "conducteurId": 5,
+    "depart": "bafang ",
+    "destination": "babouantou",
+    "date": "2025-11-25",
+    "heure": "10:33",
+    "placesTotal": 10,
+    "placesRestantes": 10,
+    "status": "effectué",
+    "reservations": []
+  },
+  {
+    "id": 7,
+    "conducteurId": 5,
+    "depart": "villejuif",
+    "destination": "cretail",
+    "date": "2025-11-25",
+    "heure": "15:30",
+    "placesTotal": 8,
+    "placesRestantes": 7,
+    "status": "effectué",
+    "reservations": [
+      {
+        "passagerId": 2,
+        "dateReservation": "2025-11-25T14:27:48.062Z",
+        "statut": "effectué"
+      }
+    ]
+  }
+]
